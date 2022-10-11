@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gustavosnto
-- 👀 I'm Front-end Developer
-- 🌱 I’m currently learning Vue.JS
-- 💞️ I’m looking to collaborate on 3ww
+- 👋 Olá! Eu sou @gustavosnto
+- 👀 Atualmente como Front-end Developer
+- 🌱 Atualmente estudando Next.JS e  Vue.JS
+- 💼 E atualmente procurando oportunidades.
 <!-- - 📫 How to reach me ... -->
 
 <!---

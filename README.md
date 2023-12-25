@@ -1,7 +1,6 @@
 - 👋 Olá! Eu sou @gustavosnto
 - 👀 Atualmente como Front-end Developer
-- 🌱 Atualmente estudando Next.JS e  Vue.JS
-- 💼 E atualmente procurando oportunidades.
+- 🌱 Desenvolvedor React, JavaScript e WordPress
 <!-- - 📫 How to reach me ... -->
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou @gustavosnto
 - 👀 Atualmente como Front-end Developer
-- 🌱 Desenvolvedor React, JavaScript e WordPress
+- 🖥️ Desenvolvedor React, Next.JS, Node, JavaScript e WordPress
 <!-- - 📫 How to reach me ... -->
 
 <!---
